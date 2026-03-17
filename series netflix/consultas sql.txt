@@ -1,0 +1,4 @@
+Actividad: Consultas SQL sobre tabla clientes (filtros y patrones)
+
+Repositorio GitHub
+https://github.com/E-lizzy93/-Consultas-SQL-sobre-tabla-clientes-filtros-y-patrones-.git
