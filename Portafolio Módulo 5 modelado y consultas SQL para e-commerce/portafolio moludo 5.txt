@@ -1,0 +1,8 @@
+Entregable: AEjercicio Práctico - Desarrollo Portafolio Módulo 5: Modelado y Consultas SQL (ER/DDL/DML) — PostgreSQL (pgAdmin)
+Nombre Completo : Elizabeth Morales Huenul
+Fecha de Entrega: 17 de marzo de 2026
+
+
+Repositorio GitHub
+https://github.com/E-lizzy93/Actividades-modulo-5-SQL.git
+
