@@ -6,3 +6,9 @@ Fecha de Entrega: 17 de marzo de 2026
 Repositorio GitHub
 https://github.com/E-lizzy93/Actividades-modulo-5-SQL.git
 
+
+Instrucciones para revisar el proyecto:
+1. El código SQL  se encuentra en "Portafolio Módulo 5 modelado y consultas SQL para e-commerce/portafolio modulo 5.sql"
+2. Las evidencias (pantallazos) están en la carpeta "img/portafolio modulo 5".
+
+
