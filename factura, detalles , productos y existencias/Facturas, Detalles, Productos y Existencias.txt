@@ -2,9 +2,9 @@ Entregable: Actividad
 SQL DDL/DML: Facturas, Detalles, Productos y Existencias
 
 Repositorio de GitHub:
-https://github.com/E-lizzy93/-Consultas-SQL-sobre-tabla-clientes-filtros-y-patrones-.git
+https://github.com/E-lizzy93/Actividades-modulo-5-SQL.git
 
 Instrucciones para revisar el proyecto:
-1. El código SQL se encuentra en Facturas, detalles, productos y existencias.sql.
-2. Las evidencias (pantallazos) están en la carpeta '/img'/Facturas, detalles, productos y existencias.
+1. El código SQL se encuentra en "factura, detalles , productos y existencias".
+2. Las evidencias (pantallazos) están en la carpeta "img/Facturas, Detalles, Productos y Existencias".
 3. README.txt breve indicando motor y versión.

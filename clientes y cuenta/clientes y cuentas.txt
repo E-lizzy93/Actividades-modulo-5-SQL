@@ -1,0 +1,9 @@
+Entregable: Actividad  clientes y cuentas  
+SQL: Llaves, DDL/DML y Consultas de Agregación
+
+Repositorio GitHub
+https://github.com/E-lizzy93/Actividades-modulo-5-SQL.git
+
+Instrucciones para revisar el proyecto:
+1. El código SQL  se encuentra en "clientes y cuenta".
+2. Las evidencias (pantallazos) están en la carpeta "img/clientes_cuentas".

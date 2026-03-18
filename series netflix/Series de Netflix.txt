@@ -1,0 +1,8 @@
+Entregable: Actividad Series de Netflix
+
+Repositorio GitHub
+https://github.com/E-lizzy93/Actividades-modulo-5-SQL.git
+
+Instrucciones para revisar el proyecto:
+1. El código SQL  se encuentra en "series netflix".
+2. Las evidencias (pantallazos) están en la carpeta "img/img_netflix".

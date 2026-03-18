@@ -1,0 +1,9 @@
+Entregable: Actividad: Consultas SQL sobre tabla clientes (filtros y patrones)
+
+Repositorio GitHub
+https://github.com/E-lizzy93/Actividades-modulo-5-SQL.git
+
+Instrucciones para revisar el proyecto:
+1. El código SQL  se encuentra en "consultas SQL".
+2. Las evidencias (pantallazos) están en la carpeta "img/img_consulta".
+

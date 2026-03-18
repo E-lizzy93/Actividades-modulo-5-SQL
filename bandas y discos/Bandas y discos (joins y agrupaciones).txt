@@ -1,6 +1,0 @@
-Ejercicio 4 — Bandas y discos (joins y agrupaciones)
-
-Repositorio GitHub
-https://github.com/E-lizzy93/-Consultas-SQL-sobre-tabla-clientes-filtros-y-patrones-.git
-
-Bandas y discos (joins y agrupaciones).sql

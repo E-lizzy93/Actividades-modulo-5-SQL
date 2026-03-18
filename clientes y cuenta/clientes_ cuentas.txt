@@ -1,7 +1,0 @@
-Actividad de Aprendizaje 
-SQL: Llaves, DDL/DML y Consultas de Agregación
-
-Repositorio GitHub 
-https://github.com/E-lizzy93/-Consultas-SQL-sobre-tabla-clientes-filtros-y-patrones-.git
-
-Clientes y Cuentas.sql
